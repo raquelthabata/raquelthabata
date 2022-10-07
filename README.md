@@ -2,3 +2,11 @@
 
 
 -Atualmente sou estudante na laboratória.
+
+<style>
+    body {
+        color: purple;
+    }
+</style>
+
+
