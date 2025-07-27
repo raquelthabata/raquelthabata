@@ -1,6 +1,6 @@
 <h2 align="center"> Olá, seja bem vindx! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p align='center'><em>Estudante de Desenvolvimento Web jr. na <a href="https://www.laboratoria.la/br"> Laboratória</a> 
-  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>| Front-end | HTML | CSS | JavaScript | UX/UI |
+<p align='center'><em>Estudante de Desenvolvimento na <a href="https://www.laboratoria.la/br"> Laboratória</a> 
+  <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>| UX/UI |
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </em></p>
 
@@ -8,7 +8,7 @@
 
 ```javascript
 const Raquel = {
-  code: [Javascript, HTML, CSS],
+  code: [HTML, CSS],
   languages [Espanish, English],
   softSkils: [creativity, Empathy, Adaptability],
   loves: [photography, cats, design, family, photoshop]
